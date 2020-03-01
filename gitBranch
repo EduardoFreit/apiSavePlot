@@ -1,0 +1,5 @@
+ 
+git remote add upstream https://github.com/r-bio/challenges-francois
+git checkout -b proposed-fixes master
+--commit
+git push origin proposed-fixes
