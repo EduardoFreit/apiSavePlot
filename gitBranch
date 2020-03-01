@@ -1,5 +1,5 @@
  
-git remote add upstream https://github.com/r-bio/challenges-francois
-git checkout -b proposed-fixes master
+git remote add upstream [url do repositório Raiz]
+git checkout -b [nome da nova Branch] master
 --commit
-git push origin proposed-fixes
+git push origin [nome da nova Branch]-fixes
